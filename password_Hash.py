@@ -1,3 +1,4 @@
+# This is a simple project from w3resource.com
 import hashlib
 def hash_password(password):
     # Encode the password as bytes
